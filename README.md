@@ -2,8 +2,12 @@
 
 This is a collection of resources and a design guide for the Herobotics build team.
 
+## Off-Season Design Challenges
+1. Wheeled intakes and manipulators for anything.
+2. Lifters and elevators.
+3. Climbers 
 
-## Backwards Timeline
+## Generic Backwards Timeline
 1. Championships
 2. Regional 2
 3. Regional 1
@@ -18,3 +22,6 @@ This is a collection of resources and a design guide for the Herobotics build te
 12. Game reveal
 13. End off-season  
 
+## Links
+* [DC Motor Spreadsheet](https://docs.google.com/spreadsheets/d/17k6qXjSuPh-zc7E1hmP__7BhxjGUSviQSoy4aTmrojI/edit?usp=sharing)
+* 
