@@ -6,6 +6,7 @@ This is a collection of resources and a design guide for the Herobotics build te
 1. Wheeled intakes and manipulators for anything.
 2. Lifters and elevators.
 3. Climbers 
+4. Swerve Drive
 
 ## Generic Backwards Timeline
 1. Championships
